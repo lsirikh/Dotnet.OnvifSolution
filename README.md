@@ -1,4 +1,4 @@
-## WPF Onvif Solution
+## Dotnet Onvif Solution
 
 > This project is a solution that supports the easy use of onvif in C#, .netframework, and various libraries can be used according to their needs, and an onvif control program can be built based on that library.
 
